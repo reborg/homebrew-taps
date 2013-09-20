@@ -4,7 +4,7 @@ class Pwc < Formula
 
   homepage 'https://github.com/reborg/pwc'
   url 'https://github.com/reborg/pwc/archive/0.1.1.tar.gz'
-  sha1 '0de052832b0aa4a7480bcf24231ffd781bd9dedb'
+  sha1 'becfeba8fece1ecdd0a3290993a0fbe245a48a7a'
 
   head "https://github.com/reborg/pwc.git"
 
