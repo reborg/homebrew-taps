@@ -3,8 +3,8 @@ require 'formula'
 class Pwc < Formula
 
   homepage 'https://github.com/reborg/pwc'
-  url 'https://github.com/reborg/pwc/archive/0.2.1.tar.gz'
-  sha1 '2ee0b22b70146a8486edb1b7fe69746f71143b69'
+  url 'https://github.com/reborg/pwc/archive/0.2.2.tar.gz'
+  sha1 '02034932fb8248fb3008b4a7cf3e43f72274d7f3'
 
   head "https://github.com/reborg/pwc.git"
 
