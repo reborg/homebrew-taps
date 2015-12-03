@@ -3,7 +3,7 @@ require 'formula'
 class Yagni < Formula
 
   homepage 'https://github.com/reborg/yagni-detector'
-  url 'https://github.com/reborg/yagni-detector/archive/0.0.4.tar.gz'
+  url 'https://github.com/reborg/yagni-detector/archive/0.0.5.tar.gz'
   sha1 ''
 
   head "https://github.com/reborg/yagni-detector.git"
