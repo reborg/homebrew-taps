@@ -3,8 +3,8 @@ require 'formula'
 class Fluorine < Formula
 
   homepage 'https://github.com/reborg/fluorine'
-  url 'https://github.com/reborg/fluorine/archive/0.0.8.tar.gz'
-  sha1 '6e5c20c7af834b74bea1ed4408acb95c2df5e754'
+  url 'https://github.com/reborg/fluorine/archive/0.0.9.tar.gz'
+  sha1 'd267b5043327f118903025858aa4c70fe2db1be9'
 
   head "https://github.com/reborg/fluorine.git"
 
